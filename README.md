@@ -13,3 +13,7 @@
 #### Bloco 2 - Operadores Aritméticos em C#
 
 - [X] [Seção 1: _Operadores Aritméticos e a Classe Math_](https://github.com/TiLourinho/dio-dotnet/tree/main/01%20-%20Fundamentos%20.NET/Bloco%2002%20-%20Operadores%20Aritm%C3%A9ticos%20em%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Operadores%20Aritm%C3%A9ticos%20e%20a%20Classe%20Math)
+
+#### Bloco 3 - Conhecendo as Estruturas de Repetição em C#
+
+- [ ] [Seção 1: _ Estruturas de Repetição_]()
