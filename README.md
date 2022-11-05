@@ -8,4 +8,4 @@
 
 - [X] [Seção 1: _Operadores de Atribuição_](https://github.com/TiLourinho/dio-dotnet/tree/main/01%20-%20Fundamentos%20.NET/Bloco%2001%20-%20Tipos%20de%20Operadores%20em%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Operadores%20de%20Atribui%C3%A7%C3%A3o)
 - [X] [Seção 2: _Operadores Condicionais_](https://github.com/TiLourinho/dio-dotnet/tree/main/01%20-%20Fundamentos%20.NET/Bloco%2001%20-%20Tipos%20de%20Operadores%20em%20C%23/Se%C3%A7%C3%A3o%2002%20-%20Operadores%20Condicionais)
-- [ ] Seção 3: _Operadores Lógicos_
+- [ ] [Seção 3: _Operadores Lógicos_](https://github.com/TiLourinho/dio-dotnet/tree/main/01%20-%20Fundamentos%20.NET/Bloco%2001%20-%20Tipos%20de%20Operadores%20em%20C%23/Se%C3%A7%C3%A3o%2003%20-%20Operadores%20L%C3%B3gicos)
