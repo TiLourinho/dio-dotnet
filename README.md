@@ -16,4 +16,4 @@
 
 #### Bloco 3 - Conhecendo as Estruturas de Repetição em C#
 
-- [ ] [Seção 1: _ Estruturas de Repetição_]()
+- [ ] [Seção 1: _Estruturas de Repetição_](https://github.com/TiLourinho/dio-dotnet/tree/main/01%20-%20Fundamentos%20.NET/Bloco%2003%20-%20Conhecendo%20as%20Estruturas%20de%20Repeti%C3%A7%C3%A3o%20em%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o)
