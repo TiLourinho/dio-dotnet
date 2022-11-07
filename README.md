@@ -20,4 +20,8 @@
 
 #### Bloco 4 - Conhecendo a Estrutura de um Programa C#
 
-- [ ] [Seção 1: _Estrutura de um Programa e Método Principal_]()
+- [X] [Seção 1: _Estrutura de um Programa e Método Principal_](https://github.com/TiLourinho/dio-dotnet/tree/main/01%20-%20Fundamentos%20.NET/Bloco%2004%20-%20Conhecendo%20a%20Estrutura%20de%20um%20Programa%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Estrutura%20de%20um%20Programa%20e%20M%C3%A9todo%20Principal)
+
+#### Bloco 5 - Arrays e Listas em C#
+
+- [ ] [Seção 1: _Arrays e Listas_]()
