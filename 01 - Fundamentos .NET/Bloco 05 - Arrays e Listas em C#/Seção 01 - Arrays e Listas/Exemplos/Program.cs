@@ -13,12 +13,15 @@ integerArray[1] = 64;
 integerArray[2] = 50;
 
 // Percorrendo o array com o For
+Console.WriteLine("Array com FOR:");
+
 for (int counter = 0; counter < integerArray.Length; counter++)
 {
   Console.WriteLine($"Posição nº {counter}: {integerArray[counter]}");
 }
 
 // Percorrendo o array com o Foreach
+Console.WriteLine("\nArray com FOREACH:");
 int foreachCounter = 0;
 
 foreach(int value in integerArray)
@@ -54,8 +57,32 @@ List<string> stringList = new ();
 stringList.Add("DF");
 stringList.Add("CE");
 stringList.Add("MA");
+stringList.Add("SP");
+
+Console.WriteLine($"Itens na minha lista: {stringList.Count} - Capacidade: {stringList.Capacity}");
+
+stringList.Add("RJ");
+
+Console.WriteLine($"Itens na minha lista: {stringList.Count} - Capacidade: {stringList.Capacity}");
+
+stringList.Remove("SP");
+
+Console.WriteLine($"Itens na minha lista: {stringList.Count} - Capacidade: {stringList.Capacity}");
+
+// Percorrendo a lista com o For
+Console.WriteLine("\nLista com FOR:");
 
 for (int counter = 0; counter < stringList.Count; counter++)
 {
-  
+  Console.WriteLine($"Posição nº {counter}: {stringList[counter]}");
+}
+
+// Percorrendo a lista com o Foreach
+Console.WriteLine("\nLista com FOREACH:");
+int listCounter = 0;
+
+foreach (string value in stringList)
+{
+  Console.WriteLine($"Posição nº {listCounter}: {stringList[listCounter]}");
+  listCounter++;
 }
