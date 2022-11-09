@@ -7,7 +7,7 @@
 <p align="center">Este repositório foi feito para registrar os estudos feitos no bootcamp <strong>Formação .NET Developer</strong> da DIO.</p>
 <hr>
  
-## Fundamentos do C# :hourglass_flowing_sand:
+## Fundamentos do C# :white_check_mark:
 
 #### Bloco 1 - Tipos de Operadores em C#:
 
@@ -38,6 +38,12 @@
 #### Bloco 7 - Desafio de Projeto:
 
 - [X] [_Construindo um Sistema para um Estacionamento com C#_](https://github.com/TiLourinho/trilha-net-fundamentos-desafio)
+
+## Explorando a Linguagem C# :hourglass_flowing_sand:
+
+#### Bloco 1: Propriedades, Métodos e Construtores com C#:
+
+- [ ] [Seção 1: _Propriedades, Métodos e Construtores_]()
 
 <hr>
 <p align="center">
