@@ -25,3 +25,7 @@
 #### Bloco 5 - Arrays e Listas em C#
 
 - [X] [Seção 1: _Arrays e Listas_](https://github.com/TiLourinho/dio-dotnet/tree/main/01%20-%20Fundamentos%20.NET/Bloco%2005%20-%20Arrays%20e%20Listas%20em%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Arrays%20e%20Listas)
+
+#### Bloco 6 - Desafios Básicos de C#
+
+- [X] [Desafios](https://github.com/TiLourinho/dio-dotnet/tree/main/01%20-%20Fundamentos%20.NET/Bloco%2006%20-%20Desafios%20B%C3%A1sicos%20de%20C%23)
