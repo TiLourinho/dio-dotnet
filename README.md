@@ -46,6 +46,8 @@
 - [ ] [Seção 1: _Propriedades, Métodos e Construtores_]()
 
 <hr>
-<p align="center">
- <img src="https://github.com/TiLourinho/dio-dotnet/blob/main/dio.png" alt="Logo da DIO" width="50px" />
-</p>
+<a href="https://www.dio.me/">
+ <p align="center">
+  <img src="https://github.com/TiLourinho/dio-dotnet/blob/main/dio.png" alt="Logo da DIO" width="50px" />
+ </p>
+</a>
