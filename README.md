@@ -1,6 +1,11 @@
+<p align="center">
+ <img src="https://github.com/TiLourinho/dio-dotnet/blob/main/curso.png" alt="Logo do curso Formação .NET Developer" width="400px" />
+</p>
+
 <h1 align="center">Formação .NET Developer</h1>
 
 <p align="center">Este repositório foi feito para registrar os estudos feitos no bootcamp <strong>Formação .NET Developer</strong> da DIO.</p>
+<hr>
  
 ## Fundamentos do C# :hourglass_flowing_sand:
 
@@ -33,3 +38,8 @@
 #### Bloco 7 - Desafio de Projeto:
 
 - [X] [_Construindo um Sistema para um Estacionamento com C#_](https://github.com/TiLourinho/trilha-net-fundamentos-desafio)
+
+<hr>
+<p align="center">
+ <img src="https://github.com/TiLourinho/dio-dotnet/blob/main/dio.png" alt="Logo da DIO" width="50px" />
+</p>
