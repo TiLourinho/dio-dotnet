@@ -45,6 +45,10 @@
 
 - [X] [Seção 1: _Propriedades, Métodos e Construtores_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2001%20-%20Propriedades%2C%20M%C3%A9todos%20e%20Construtores%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Propriedades%2C%20M%C3%A9todos%20e%20Construtores)
 
+#### Bloco 2: Manipulando Valores com C#:
+
+- [X] [Seção 1: _Manipulando Valores_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2002%20-%20Manipulando%20Valores%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Manipulando%20Valores)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
