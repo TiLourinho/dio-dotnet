@@ -43,7 +43,7 @@
 
 #### Bloco 1: Propriedades, Métodos e Construtores com C#:
 
-- [ ] [Seção 1: _Propriedades, Métodos e Construtores_]()
+- [X] [Seção 1: _Propriedades, Métodos e Construtores_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2001%20-%20Propriedades%2C%20M%C3%A9todos%20e%20Construtores%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Propriedades%2C%20M%C3%A9todos%20e%20Construtores)
 
 <hr>
 <a href="https://www.dio.me/">
