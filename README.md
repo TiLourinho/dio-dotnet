@@ -5,6 +5,8 @@
 <h1 align="center">Formação .NET Developer</h1>
 
 <p align="center">Este repositório foi feito para registrar os estudos feitos no bootcamp <strong>Formação .NET Developer</strong> da DIO.</p>
+
+<p align="center"><i>Domine a principal stack de desenvolvimento da <strong>Microsoft</strong> e torne-se um profissional de destaque no mercado quando o assunto se trata de criar soluções na plataforma <strong>.NET</strong>. Durante a sua jornada você vai aprender como desenvolver em APIs robustas para criar aplicações de alto nível, testes unitários para criar aplicações resilientes, banco de dados relacional e não relacionais (<strong>SQL</strong> e <strong>NoSQL</strong>) na prática e ainda exercite seus conhecimentos na <strong>Azure</strong>: um dos principais provedores de serviços em nuvem do mundo.</i></p>
 <hr>
  
 ## Fundamentos do C# :white_check_mark:
