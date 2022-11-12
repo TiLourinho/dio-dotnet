@@ -49,6 +49,10 @@
 
 - [X] [Seção 1: _Manipulando Valores_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2002%20-%20Manipulando%20Valores%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Manipulando%20Valores)
 
+#### Bloco 3: Exceções e Coleções com C#:
+
+- [X] [Seção 1: _Exceções e Coleções_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2003%20-%20Exce%C3%A7%C3%B5es%20e%20Cole%C3%A7%C3%B5es%20com%20C%23/Se%C3%A7%C3%A3o%201%20-%20Exce%C3%A7%C3%B5es%20e%20Cole%C3%A7%C3%B5es)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
