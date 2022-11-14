@@ -55,6 +55,14 @@
 
 - [X] [Seção 1: _Exceções e Coleções_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2003%20-%20Exce%C3%A7%C3%B5es%20e%20Cole%C3%A7%C3%B5es%20com%20C%23/Se%C3%A7%C3%A3o%201%20-%20Exce%C3%A7%C3%B5es%20e%20Cole%C3%A7%C3%B5es)
 
+#### Bloco 4: Tuplas, Operador Ternário e Desconstrução de um Objeto com C#:
+
+- [X] [Seção 1: _Tuplas, Operador Ternário e Desconstrução de um Objeto_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2004%20-%20Tuplas%2C%20Operador%20Tern%C3%A1rio%20e%20Desconstru%C3%A7%C3%A3o%20de%20um%20Objeto%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Tuplas%2C%20Operador%20Tern%C3%A1rio%20e%20Desconstru%C3%A7%C3%A3o%20de%20um%20Objeto)
+
+#### Bloco 5: Nuget, Serializar e Atributos no C#:
+
+- [ ] [Seção 1: _Nuget, Serializar e Atributos no C#_]()
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
