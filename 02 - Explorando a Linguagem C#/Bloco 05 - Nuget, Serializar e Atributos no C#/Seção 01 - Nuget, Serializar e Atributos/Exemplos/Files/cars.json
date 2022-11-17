@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Car_Name": "Tigra",
+    "Car_Branch": "Chevrolet",
+    "Release_Year": 1998,
+    "Price": 32000.00
+  },
+  {
+    "Id": 2,
+    "Car_Name": "Gol GTI",
+    "Car_Branch": "Volkswagen",
+    "Release_Year": 1993,
+    "Price": 89000.00
+  },
+  {
+    "Id": 3,
+    "Car_Name": "Escort",
+    "Car_Branch": "Ford",
+    "Release_Year": 1991,
+    "Price": 24000.00
+  }
+]
