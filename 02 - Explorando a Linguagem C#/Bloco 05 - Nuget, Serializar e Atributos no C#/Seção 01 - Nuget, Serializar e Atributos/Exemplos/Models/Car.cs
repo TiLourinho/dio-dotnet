@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 
 namespace Exemplos.Models
 {
-    public class Cars
+    public class Car
     {
         public int Id { get; set; }
 
@@ -18,7 +18,7 @@ namespace Exemplos.Models
 
         [JsonProperty("Release_Year")]
         public int ReleaseYear { get; set; }
-        
+
         public decimal Price { get; set; }
     }
 }
