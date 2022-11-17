@@ -46,9 +46,9 @@ Console.WriteLine($"\n{salesListSerialized}\n");
 
 string contentFile = File.ReadAllText("Files/cars.json");
 
-List<Cars> carsList = JsonConvert.DeserializeObject<List<Cars>>(contentFile);
+List<Car> carsList = JsonConvert.DeserializeObject<List<Car>>(contentFile);
 
-foreach (Cars car in carsList)
+foreach (Car car in carsList)
 {
     Console.WriteLine($"Id: {car.Id},\nName: {car.Name},\nBranch: {car.Branch},\nReleaseYear: {car.ReleaseYear},\nPrice: {car.Price:C}\n");
 }
