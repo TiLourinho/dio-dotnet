@@ -67,6 +67,10 @@
 
 - [X] [Seção 1: _Tipos Especiais no C#_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2006%20-%20Tipos%20Especiais%20no%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Tipos%20Especiais%20no%20C%23)
 
+#### Bloco 7: Stack, Heap e Garbage Collector no C#
+
+- [X] [Seção 1: _Stack, Heap e Garbage Collector_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2007%20-%20Stack%2C%20Heap%20e%20Garbage%20Collector%20no%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Stack%2C%20Heap%20e%20Garbage%20Collector)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
