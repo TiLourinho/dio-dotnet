@@ -43,33 +43,37 @@
 
 ## Explorando a Linguagem C# :hourglass_flowing_sand:
 
-#### Bloco 1: Propriedades, Métodos e Construtores com C#:
+#### Bloco 1 - Propriedades, Métodos e Construtores com C#:
 
 - [X] [Seção 1: _Propriedades, Métodos e Construtores_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2001%20-%20Propriedades%2C%20M%C3%A9todos%20e%20Construtores%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Propriedades%2C%20M%C3%A9todos%20e%20Construtores)
 
-#### Bloco 2: Manipulando Valores com C#:
+#### Bloco 2 - Manipulando Valores com C#:
 
 - [X] [Seção 1: _Manipulando Valores_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2002%20-%20Manipulando%20Valores%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Manipulando%20Valores)
 
-#### Bloco 3: Exceções e Coleções com C#:
+#### Bloco 3 - Exceções e Coleções com C#:
 
 - [X] [Seção 1: _Exceções e Coleções_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2003%20-%20Exce%C3%A7%C3%B5es%20e%20Cole%C3%A7%C3%B5es%20com%20C%23/Se%C3%A7%C3%A3o%201%20-%20Exce%C3%A7%C3%B5es%20e%20Cole%C3%A7%C3%B5es)
 
-#### Bloco 4: Tuplas, Operador Ternário e Desconstrução de um Objeto com C#:
+#### Bloco 4 - Tuplas, Operador Ternário e Desconstrução de um Objeto com C#:
 
 - [X] [Seção 1: _Tuplas, Operador Ternário e Desconstrução de um Objeto_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2004%20-%20Tuplas%2C%20Operador%20Tern%C3%A1rio%20e%20Desconstru%C3%A7%C3%A3o%20de%20um%20Objeto%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Tuplas%2C%20Operador%20Tern%C3%A1rio%20e%20Desconstru%C3%A7%C3%A3o%20de%20um%20Objeto)
 
-#### Bloco 5: Nuget, Serializar e Atributos no C#:
+#### Bloco 5 - Nuget, Serializar e Atributos no C#:
 
 - [X] [Seção 1: _Nuget, Serializar e Atributos_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2005%20-%20Nuget%2C%20Serializar%20e%20Atributos%20no%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Nuget%2C%20Serializar%20e%20Atributos)
 
-#### Bloco 6: Tipos Especiais no C#:
+#### Bloco 6 - Tipos Especiais no C#:
 
 - [X] [Seção 1: _Tipos Especiais no C#_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2006%20-%20Tipos%20Especiais%20no%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Tipos%20Especiais%20no%20C%23)
 
-#### Bloco 7: Stack, Heap e Garbage Collector no C#
+#### Bloco 7 - Stack, Heap e Garbage Collector no C#:
 
 - [X] [Seção 1: _Stack, Heap e Garbage Collector_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2007%20-%20Stack%2C%20Heap%20e%20Garbage%20Collector%20no%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Stack%2C%20Heap%20e%20Garbage%20Collector)
+
+#### Bloco 8 - Desafio de Código:
+
+- [X] [_Desafios Intermediários C# I_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2008%20-%20Desafios%20Intermedi%C3%A1rios%20C%23%20I)
 
 <hr>
 <a href="https://www.dio.me/">
