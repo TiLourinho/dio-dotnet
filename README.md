@@ -61,7 +61,11 @@
 
 #### Bloco 5: Nuget, Serializar e Atributos no C#:
 
-- [X] [Seção 1: _Nuget, Serializar e Atributos no C#_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2005%20-%20Nuget%2C%20Serializar%20e%20Atributos%20no%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Nuget%2C%20Serializar%20e%20Atributos)
+- [X] [Seção 1: _Nuget, Serializar e Atributos_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2005%20-%20Nuget%2C%20Serializar%20e%20Atributos%20no%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Nuget%2C%20Serializar%20e%20Atributos)
+
+#### Bloco 6: Tipos Especiais no C#:
+
+- [X] [Seção 1: _Tipos Especiais no C#_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2006%20-%20Tipos%20Especiais%20no%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Tipos%20Especiais%20no%20C%23)
 
 <hr>
 <a href="https://www.dio.me/">
