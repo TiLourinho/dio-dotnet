@@ -27,7 +27,7 @@
                                   0 dia(s)
     */
 
-    var dias = int.Parse(Console.ReadLine());
+    var dias = Convert.ToInt32(Console.ReadLine());
 
     var anos = dias / 365;
     dias = dias % 365;
@@ -111,15 +111,9 @@ static void TempoDoDobby()
     int presente2 = Convert.ToInt32(presentes[1]);
     
     int totalNecessario = presente1 + presente2;
-    
-    if (totalNecessario > finalExpediente)
-    {
-      Console.WriteLine("Deixa para amanha!");
-    }
-    else
-    {
-      Console.WriteLine("Farei hoje!");
-    }
+
+    string ternario = totalNecessario > finalExpediente ? "Deixa para amanha!" : "Farei hoje!";
+    Console.WriteLine(ternario);
 }
 
 TempoDoDobby();
