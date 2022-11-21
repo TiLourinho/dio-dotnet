@@ -75,6 +75,10 @@
 
 - [X] [_Desafios Intermediários C# I_](https://github.com/TiLourinho/dio-dotnet/tree/main/02%20-%20Explorando%20a%20Linguagem%20C%23/Bloco%2008%20-%20Desafios%20Intermedi%C3%A1rios%20C%23%20I)
 
+#### Bloco 9 - Desafio de Projeto:
+
+- [X] [_Construindo um sistema de hospedagem de um hotel no C#_](https://github.com/TiLourinho/trilha-net-explorando-desafio)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
