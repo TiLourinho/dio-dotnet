@@ -41,7 +41,7 @@
 
 - [X] [_Construindo um Sistema para um Estacionamento com C#_](https://github.com/TiLourinho/trilha-net-fundamentos-desafio)
 
-## Explorando a Linguagem C# :hourglass_flowing_sand:
+## Explorando a Linguagem C# :white_check_mark:
 
 #### Bloco 1 - Propriedades, Métodos e Construtores com C#:
 
@@ -78,6 +78,12 @@
 #### Bloco 9 - Desafio de Projeto:
 
 - [X] [_Construindo um sistema de hospedagem de um hotel no C#_](https://github.com/TiLourinho/trilha-net-explorando-desafio)
+
+## Programação Orientada a Objetos com C# :hourglass_flowing_sand:
+
+#### Bloco 1 - Introdução, Abstração e Encapsulamento com C#:
+
+- [X] [Seção 1: _Introdução, Abstração e Encapsulamento_](https://github.com/TiLourinho/dio-dotnet/tree/main/03%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/Bloco%2001%20-%20Introdu%C3%A7%C3%A3o%2C%20Abstra%C3%A7%C3%A3o%20e%20Encapsulamento%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Introdu%C3%A7%C3%A3o%2C%20Abstra%C3%A7%C3%A3o%20e%20Encapsulamento)
 
 <hr>
 <a href="https://www.dio.me/">
