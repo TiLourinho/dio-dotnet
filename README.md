@@ -89,6 +89,10 @@
 
 - [X] [Seção 1: _Herança e Polimorfismo_](https://github.com/TiLourinho/dio-dotnet/tree/main/03%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/Bloco%2002%20-%20Heran%C3%A7a%20e%20Polimorfismo%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Heran%C3%A7a%20e%20Polimorfismo)
 
+#### Bloco 3 - Classes Abstratas e Interfaces com C#:
+
+- [X] [Seção 1: _Classes Abstratas e Interfaces_](https://github.com/TiLourinho/dio-dotnet/tree/main/03%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/Bloco%2003%20-%20Classes%20Abstratas%20e%20Interfaces%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Classes%20Abstratas%20e%20Interfaces)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
