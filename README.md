@@ -97,6 +97,10 @@
 
 - [X] [_Desafios Intermediários C# II_](https://github.com/TiLourinho/dio-dotnet/tree/main/03%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20C%23/Bloco%2004%20-%20Desafios%20Intermedi%C3%A1rios%20C%23%20II)
 
+#### Bloco 5 - Desafio de Projeto:
+
+- [X] [_Criando um Sistema e Abstraindo um Celular com POO em C#_](https://github.com/TiLourinho/trilha-net-poo-desafio)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
