@@ -79,7 +79,7 @@
 
 - [X] [_Construindo um sistema de hospedagem de um hotel no C#_](https://github.com/TiLourinho/trilha-net-explorando-desafio)
 
-## Programação Orientada a Objetos com C# :hourglass_flowing_sand:
+## Programação Orientada a Objetos com C# :white_check_mark:
 
 #### Bloco 1 - Introdução, Abstração e Encapsulamento com C#:
 
@@ -100,6 +100,12 @@
 #### Bloco 5 - Desafio de Projeto:
 
 - [X] [_Criando um Sistema e Abstraindo um Celular com POO em C#_](https://github.com/TiLourinho/trilha-net-poo-desafio)
+
+## Bancos de Dados Relacionais e Não Relacionais com SQL SERVER e MongoDB :hourglass_flowing_sand:
+
+#### Bloco 1 - SQL SERVER - Dominando Tabelas e Tipos de Dados:
+
+- [X] [Seção 1: _SQL, Tabelas e Tipos de Dados_](https://github.com/TiLourinho/dio-dotnet/tree/main/04%20-%20Bancos%20de%20Dados%20Relacionais%20e%20N%C3%A3o%20Relacionais%20com%20SQL%20Server%20e%20MongoDB/Bloco%2001%20-%20SQL%20SERVER%20-%20Dominando%20Tabelas%20e%20Tipos%20de%20Dados/Se%C3%A7%C3%A3o%2001%20-%20SQL,%20Tabelas%20e%20Tipos%20de%20Dados)
 
 <hr>
 <a href="https://www.dio.me/">
