@@ -107,6 +107,10 @@
 
 - [X] [Seção 1: _SQL, Tabelas e Tipos de Dados_](https://github.com/TiLourinho/dio-dotnet/tree/main/04%20-%20Bancos%20de%20Dados%20Relacionais%20e%20N%C3%A3o%20Relacionais%20com%20SQL%20Server%20e%20MongoDB/Bloco%2001%20-%20SQL%20SERVER%20-%20Dominando%20Tabelas%20e%20Tipos%20de%20Dados/Se%C3%A7%C3%A3o%2001%20-%20SQL,%20Tabelas%20e%20Tipos%20de%20Dados)
 
+#### Bloco 2 - SQL SERVER - Manipulando Dados:
+
+- [X] [Seção 1: _Manipulando Dados_](https://github.com/TiLourinho/dio-dotnet/tree/main/04%20-%20Bancos%20de%20Dados%20Relacionais%20e%20N%C3%A3o%20Relacionais%20com%20SQL%20Server%20e%20MongoDB/Bloco%2002%20-%20SQL%20SERVER%20-%20Manipulando%20Dados/Se%C3%A7%C3%A3o%2001%20-%20Manipulando%20Dados)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
