@@ -1,0 +1,14 @@
+-- Seleciona os documentos em que a Cor seja "Colorido" e Preço menor que 50
+db.produtos.find({ Cor: "Colorido", Preco: {$lte: 50}})
+
+-- Seleciona os documentos em que a Cor seja "colorido" e Preço menor que 50, mas só exibe Nome e Preço
+db.produtos.find({ Cor: "Colorido", Preco: {$lte: 50} }, { Nome: 1, Preco: 1, _id: 0 })
+
+-- Seleciona os documentos em que a Cor seja "colorido" e Preço menor que 50, mas só exibe Nome e Preço em ordem decrescente de Preço
+db.produtos.find({ Cor: "Colorido", Preco: {$lte: 50} }, { Nome: 1, Preco: 1, _id: 0 }).sort({ Preco: -1 })
+
+-- Atualizar o produto de Id 3 para ter o Preço de 14.99
+db.produtos.updateOne({ Id: 3 }, { $set: { Preco: 14.99 } })
+
+-- Deletar o produto de Id 42
+db.produtos.deleteOne({ Id: 42 })
