@@ -101,7 +101,7 @@
 
 - [X] [_Criando um Sistema e Abstraindo um Celular com POO em C#_](https://github.com/TiLourinho/trilha-net-poo-desafio)
 
-## Bancos de Dados Relacionais e Não Relacionais com SQL SERVER e MongoDB :hourglass_flowing_sand:
+## Bancos de Dados Relacionais e Não Relacionais com SQL SERVER e MongoDB :white_check_mark:
 
 #### Bloco 1 - SQL SERVER - Dominando Tabelas e Tipos de Dados:
 
@@ -118,6 +118,10 @@
 #### Bloco 4 - MongoDB - Trabalhando com Bancos Não Relacionais:
 
 - [X] [Seção 1: _Bancos Não Relacionais_](https://github.com/TiLourinho/dio-dotnet/tree/main/04%20-%20Bancos%20de%20Dados%20Relacionais%20e%20N%C3%A3o%20Relacionais%20com%20SQL%20Server%20e%20MongoDB/Bloco%2004%20-%20MongoDB%20-%20Trabalhando%20com%20Bancos%20N%C3%A3o%20Relacionais/Se%C3%A7%C3%A3o%2001%20-%20Bancos%20N%C3%A3o%20Relacionais)
+
+#### Bloco 5 - Desafio de Projeto:
+
+- [X] [_Montando consultas relacionais no SQL SERVER_](https://github.com/TiLourinho/trilha-net-banco-de-dados-desafio)
 
 <hr>
 <a href="https://www.dio.me/">
