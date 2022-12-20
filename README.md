@@ -115,6 +115,10 @@
 
 - [X] [Seção 1: _Constraints, Funções e Procedures_](https://github.com/TiLourinho/dio-dotnet/tree/main/04%20-%20Bancos%20de%20Dados%20Relacionais%20e%20N%C3%A3o%20Relacionais%20com%20SQL%20Server%20e%20MongoDB/Bloco%2003%20-%20SQL%20SERVER%20-%20Constrainst%2C%20Fun%C3%A7%C3%B5es%20e%20Procedures/Se%C3%A7%C3%A3o%2001%20-%20Constraints%2C%20Fun%C3%A7%C3%B5es%20e%20Procedures)
 
+#### Bloco 4 - MongoDB - Trabalhando com Bancos Não Relacionais:
+
+- [X] [Seção 1: _Bancos Não Relacionais_](https://github.com/TiLourinho/dio-dotnet/tree/main/04%20-%20Bancos%20de%20Dados%20Relacionais%20e%20N%C3%A3o%20Relacionais%20com%20SQL%20Server%20e%20MongoDB/Bloco%2004%20-%20MongoDB%20-%20Trabalhando%20com%20Bancos%20N%C3%A3o%20Relacionais/Se%C3%A7%C3%A3o%2001%20-%20Bancos%20N%C3%A3o%20Relacionais)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
