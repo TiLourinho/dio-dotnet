@@ -129,6 +129,10 @@
 
 - [X] [Seção 1: _Introdução às APIs_](https://github.com/TiLourinho/dio-dotnet/tree/main/05%20-%20Integrando%20APIs%20.NET%20C%23%20com%20Entity%20Framework/Bloco%2001%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0s%20APIs%20com%20C%23)
 
+#### Bloco 2 - Trabalhando com Entity Framework com C#
+
+- [X] [Seção 1: _Entity Framework e CRUD_](https://github.com/TiLourinho/dio-dotnet/tree/main/05%20-%20Integrando%20APIs%20.NET%20C%23%20com%20Entity%20Framework/Bloco%2002%20-%20Trabalhando%20com%20Entity%20Framework%20com%20C%23/Se%C3%A7%C3%A3o%2001%20-%20Entity%20Framework%20e%20CRUD)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
