@@ -136,7 +136,7 @@
 
 #### Bloco 3 - Frontend com ASP.NET MVC
 
-- [ ] [Seção 1: _Frontend com MVC_](https://github.com/TiLourinho/dio-dotnet/tree/main/05%20-%20Integrando%20APIs%20.NET%20C%23%20com%20Entity%20Framework/Bloco%2003%20-%20Frontend%20com%20ASP.NET%20MVC/Se%C3%A7%C3%A3o%2001%20-%20Frontend%20com%20MVC)
+- [X] [Seção 1: _Frontend com MVC_](https://github.com/TiLourinho/dio-dotnet/tree/main/05%20-%20Integrando%20APIs%20.NET%20C%23%20com%20Entity%20Framework/Bloco%2003%20-%20Frontend%20com%20ASP.NET%20MVC/Se%C3%A7%C3%A3o%2001%20-%20Frontend%20com%20MVC)
 
 <hr>
 <a href="https://www.dio.me/">
