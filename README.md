@@ -123,7 +123,7 @@
 
 - [X] [_Montando consultas relacionais no SQL SERVER_](https://github.com/TiLourinho/trilha-net-banco-de-dados-desafio)
 
-## Integrando APIs .NET C# com Entity Framework :hourglass_flowing_sand:
+## Integrando APIs .NET C# com Entity Framework :white_check_mark:
 
 #### Bloco 1 - Introdução às APIs com C#
 
@@ -137,6 +137,10 @@
 #### Bloco 3 - Frontend com ASP.NET MVC
 
 - [X] [Seção 1: _Frontend com MVC_](https://github.com/TiLourinho/dio-dotnet/tree/main/05%20-%20Integrando%20APIs%20.NET%20C%23%20com%20Entity%20Framework/Bloco%2003%20-%20Frontend%20com%20ASP.NET%20MVC/Se%C3%A7%C3%A3o%2001%20-%20Frontend%20com%20MVC)
+
+#### Bloco 4 - Desafio de Projeto:
+
+- [X] [_Construindo um Sistema de Agendamento de Tarefas com Entity Framework_](https://github.com/TiLourinho/trilha-net-api-desafio)
 
 <hr>
 <a href="https://www.dio.me/">
