@@ -142,6 +142,12 @@
 
 - [X] [_Construindo um Sistema de Agendamento de Tarefas com Entity Framework_](https://github.com/TiLourinho/trilha-net-api-desafio)
 
+## Nuvem com Microsoft Azure
+
+#### Bloco 1 - Introdução à nuvem com Azure :hourglass_flowing_sand:
+
+- [ ] [Seção 1: _Introdução à nuvem com Azure_]()
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
