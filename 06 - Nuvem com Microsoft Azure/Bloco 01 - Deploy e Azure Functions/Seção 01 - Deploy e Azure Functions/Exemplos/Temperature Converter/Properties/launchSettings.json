@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Temperature_Converter": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7026",
+      "launchBrowser": false
+    }
+  }
+}
