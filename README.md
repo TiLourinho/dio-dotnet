@@ -146,7 +146,7 @@
 
 #### Bloco 1 - Deploy e Azure Functions
 
-- [ ] [Seção 1: _Deploy e Azure Functions_](https://github.com/TiLourinho/dio-dotnet/tree/main/06%20-%20Nuvem%20com%20Microsoft%20Azure/Bloco%2001%20-%20Deploy%20e%20Azure%20Functions/Se%C3%A7%C3%A3o%2001%20-%20Deploy%20e%20Azure%20Functions)
+- [X] [Seção 1: _Deploy e Azure Functions_](https://github.com/TiLourinho/dio-dotnet/tree/main/06%20-%20Nuvem%20com%20Microsoft%20Azure/Bloco%2001%20-%20Deploy%20e%20Azure%20Functions/Se%C3%A7%C3%A3o%2001%20-%20Deploy%20e%20Azure%20Functions)
 
 <hr>
 <a href="https://www.dio.me/">
