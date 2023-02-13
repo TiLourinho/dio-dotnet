@@ -10,6 +10,13 @@ namespace AzureTable.Controllers
     [Route("[controller]")]
     public class ContactController : ControllerBase
     {
-        
+        private readonly string _connectionString;
+        private readonly string _tableName;
+
+        public ContactController(IConfiguration configuration)
+        {
+            _connectionString = configuration.GetValue<string>("SAConnectionString");
+            _tableName = configuration.GetValue<string>("AzureTableName");
+        }
     }
 }
