@@ -152,6 +152,10 @@
 
 - [X] [Seção 2: _Armazenamento de dados_](https://github.com/TiLourinho/dio-dotnet/tree/main/06%20-%20Nuvem%20com%20Microsoft%20Azure/Bloco%2002%20-%20Armazenamento%20de%20Dados%20na%20Azure/Se%C3%A7%C3%A3o%2001%20-%20Armazenamento%20de%20Dados/Exemplos)
 
+#### Bloco 3 - Desafio de Projeto:
+
+- [X] [_Construindo um Sistema de Cadastro de Funcionários e Hospedando na Nuvem Azure_](https://github.com/TiLourinho/trilha-net-azure-desafio)
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
