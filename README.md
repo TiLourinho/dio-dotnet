@@ -156,6 +156,12 @@
 
 - [X] [_Construindo um Sistema de Cadastro de Funcionários e Hospedando na Nuvem Azure_](https://github.com/TiLourinho/trilha-net-azure-desafio)
 
+## Testes Unitários com C# :hourglass_flowing_sand:
+
+#### Bloco 1 - Testes Unitários com C#
+
+- [ ] [Seção 1: _Testes Unitários_]()
+
 <hr>
 <a href="https://www.dio.me/">
  <p align="center">
