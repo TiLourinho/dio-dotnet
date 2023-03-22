@@ -160,7 +160,7 @@
 
 #### Bloco 1 - Testes Unitários com C#
 
-- [ ] [Seção 1: _Testes Unitários_]()
+- [X] [Seção 1: _Testes Unitários_](https://github.com/TiLourinho/dio-dotnet/tree/main/07%20-%20Testes%20Unit%C3%A1rios%20com%20C%23/Bloco%201%20-%20Testes%20Unit%C3%A1rios%20com%20C%23/Se%C3%A7%C3%A3o%201%20-%20Testes%20Unit%C3%A1rios/Exemplos)
 
 <hr>
 <a href="https://www.dio.me/">
